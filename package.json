@@ -1,0 +1,19 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-dom": "^3.2.47",
+    "@vue/compiler-sfc": "^3.2.47",
+    "@vue/composition-api": "^1.7.1",
+    "koa": "^2.14.1",
+    "vue": "^3.2.36"
+  }
+}
